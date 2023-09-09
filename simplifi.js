@@ -55,7 +55,7 @@ const visited = {
   //   'Kiev': true,  1st change
 
   Berlin: false,
-  //   'Berlin': true , 6th change
+  //   'Berlin': true , 6th changeeSS
 };
 
 // Call the function to find the route starting from Kiev
